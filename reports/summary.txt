@@ -1,0 +1,16 @@
+CLINIC VISIT SUMMARY
+====================
+
+Priority Counts:
+today: 14
+see_now: 6
+
+Category Counts:
+fever_cold: 1
+stomach: 1
+injury: 1
+other: 17
+
+Arrival Hour Counts:
+09:00 - 12
+10:00 - 8
